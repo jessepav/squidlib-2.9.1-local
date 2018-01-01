@@ -3,6 +3,7 @@
     <output-path>$PROJECT_DIR$/build/artifacts/dist</output-path>
     <root id="archive" name="squidlib-2.9.1-local-src.jar">
       <element id="dir-copy" path="$PROJECT_DIR$/src/main" />
+      <element id="dir-copy" path="$PROJECT_DIR$/resources" />
     </root>
   </artifact>
 </component>
