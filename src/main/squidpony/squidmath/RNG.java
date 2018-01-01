@@ -13,6 +13,7 @@ import java.util.Random;
  *
  * @author Eben Howard - http://squidpony.com - howard@squidpony.com
  */
+@SuppressWarnings("unchecked")
 public class RNG {
 
     protected static final double DOUBLE_UNIT = 0x1.0p-53; // 1.0 / (1L << 53)
